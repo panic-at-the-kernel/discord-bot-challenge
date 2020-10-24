@@ -1,7 +1,8 @@
 # Discord bot challenge
-Durant tout le mois de **MOIS**, nous vous proposons le *discord bot challenge*.
+![JS](https://img.shields.io/badge/-javascript-f7df1e?logo=javascript&logoColor=white) ![Node.JS](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Discord](https://img.shields.io/badge/-Discord-7289DA?logo=discord&logoColor=white)  
+Durant tout le mois de **Novembre**, nous vous proposons le *discord bot challenge*.
 Votre but: développer le plus de fonctionnalités possibles (voir liste ci-dessous) *ou* la fonctionnalité bonus.
-Le concours se déroulera du **XX/XX/XXXX XX:XX** au **XX/XX/XXXX XX:XX** et est ouvert à tous les étudiants de licence qui suivent une UE informatique à Université Côte d'Azur durant l'année universitaire **2020/2021** et qui sont présents sur le discord, à l'exception des étudiants membres du jury.
+Le concours se déroulera du **01/11/2020 00:00** au **30/11/2020 23:53** et est ouvert à tous les étudiants qui suivent une UE informatique à Université Côte d'Azur durant l'année universitaire **2020/2021**, à l'exception des étudiants membres du jury.
 
 Le code du bot discord et les soumissions devront être faites sur le repo [thibaultjunin/discord-licence](https://github.com/thibaultjunin/discord-licence).
 
@@ -12,7 +13,7 @@ Le code du bot discord et les soumissions devront être faites sur le repo [thib
 4. pas d'usine à gaz
 5. commenter de façon claire (un tiers doit pouvoir comprendre)
 6. respecter les conventions du JS
-7. pas de pull request après le **XX/XX/XXXX à XX:XX**
+7. pas de pull request après le **30/11/2020 à 23:53**
 
 ## Lots
 Pour les 3 premières places:
@@ -35,3 +36,5 @@ Voici la liste des fonctionnalités à ajouter. La dernière (système de vérif
 Cette méthode devra être sécurisée, stable dans le temps, ne communiquant aucune information avec un tiers.
 
 ## Jury
+* Antoine Vidal-Mazuy (Étudiant L3)
+* Thibault Junin (Étudiant L3)
