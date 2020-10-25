@@ -32,8 +32,9 @@ Voici la liste des fonctionnalités à ajouter. La dernière (système de vérif
 
 *ou*
 
-* Refaire le système vérification actuel, en utilisant une nouvelle méthode que celle implémentée.
-Cette méthode devra être sécurisée, stable dans le temps, ne communiquant aucune information avec un tiers.
+* Refaire le système vérification actuel, en utilisant une nouvelle méthode que celle implémentée.  
+Cette méthode devra être sécurisée, stable dans le temps, ne communiquant aucune information avec un tiers, et doit donner le numéro étudiant ainsi que le nom et prénom de l'utilisateur.  
+
 
 ## Jury
 * Antoine Vidal-Mazuy (Étudiant L3)
