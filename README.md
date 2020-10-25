@@ -17,7 +17,7 @@ Le code du bot discord et les soumissions devront être faites sur le repo [thib
 
 ## Lots
 Pour les 3 premières places:
-1. Un Raspberry 4 4GB
+1. Un Raspberry 4 Pi 4GB
 2. Un t-shirt
 3. Un sac à goodies
 
