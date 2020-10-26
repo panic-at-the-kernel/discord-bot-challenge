@@ -37,5 +37,7 @@ Cette méthode devra être sécurisée, stable dans le temps, ne communiquant au
 
 
 ## Jury
-* Antoine Vidal-Mazuy (Étudiant L3)
-* Thibault Junin (Étudiant L3)
+* (Marie Pelleau)[https://github.com/mpelleau]
+* (Arnaud Malapert)[https://github.com/arnaud-m]
+* (Antoine Vidal-Mazuy)[https://github.com/Brotherta]
+* (Thibault Junin)[https://github.com/thibaultjunin/]
