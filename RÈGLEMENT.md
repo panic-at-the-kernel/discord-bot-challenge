@@ -38,8 +38,10 @@ Les gagnants seront déterminés de la manière suivante:
 * A la fin du concours, le jury (listé ci-après) passera en revue les pull requests, décidera si les fonctionnalités sont correctement implémentées dans le respect des conventions du langage utilisé.
 
 Le jury intervenant dans le déroulement du jeu-concours est composé des personnes suivantes:
-1. Antoine Vidal-Mazuy (Étudiant L3)
-2. Thibault Junin (Étudiant L3)
+1. (Marie Pelleau)[https://github.com/mpelleau]
+2. (Arnaud Malapert)[https://github.com/arnaud-m]
+3. (Antoine Vidal-Mazuy)[https://github.com/Brotherta]
+4. (Thibault Junin)[https://github.com/thibaultjunin/]
 
 ## 7. Date et modalités de publication des résultats
 Les résultats seront communiqués le 13/12/2020 sur le dépôt github du concours https://github.com/panic-at-the-kernel/discord-bot-challenge.
