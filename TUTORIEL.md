@@ -2,19 +2,19 @@
 
 ## Summary
 
-1. Installation de Node JS
+1. [Installation de Node JS](https://github.com/panic-at-the-kernel/discord-bot-challenge/blob/main/TUTORIEL.md#1installation-de-node-js)
 
-    a. sur Windows   
-    b. sur Linux  
-    c. sur macOS  
+  a. [sur Windows](https://github.com/panic-at-the-kernel/discord-bot-challenge/blob/main/TUTORIEL.md#asur-windows)   
+  b. [sur Linux](https://github.com/panic-at-the-kernel/discord-bot-challenge/blob/main/TUTORIEL.md#bsur-linux)  
+  c. [sur macOS](https://github.com/panic-at-the-kernel/discord-bot-challenge/blob/main/TUTORIEL.md#csur-macos)  
 
-2. npm & discord.js
+2. [npm & discord.js](https://github.com/panic-at-the-kernel/discord-bot-challenge/blob/main/TUTORIEL.md#2npm--discordjs)
 
-3. Comment créer un bot discord
+3. [Comment créer un bot discord](https://github.com/panic-at-the-kernel/discord-bot-challenge/blob/main/TUTORIEL.md#3cr%C3%A9er-un-bot-discord)
 
-4. Comment tester votre bot
+4. [Comment tester votre bot](https://github.com/panic-at-the-kernel/discord-bot-challenge/blob/main/TUTORIEL.md#4comment-tester-votre-bot)
 
-5. Liens utiles
+5. [Liens utiles](https://github.com/panic-at-the-kernel/discord-bot-challenge/blob/main/TUTORIEL.md#5liens-utiles)
 
 ## 1.Installation de Node JS
 
@@ -47,7 +47,7 @@ ps: si vous êtes coincé dans nano ne paniquez pas c'est moins horrible que vim
 
 ### c.sur macOS
 
-c'est un peu comme linux au fond, vous pouvez aller chercher un exécutable ici <https://nodejs.org/en/download/>, sinon brew fer super bien l'affaire avec un simple ```brew install node```.
+c'est un peu comme linux au fond, vous pouvez aller chercher un exécutable ici <https://nodejs.org/en/download/>, sinon brew fera super bien l'affaire avec un simple ```brew install node```.
 
 ## 2.npm & discord.js
 
