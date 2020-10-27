@@ -4,9 +4,9 @@
 
 1. [Installation de Node JS](https://github.com/panic-at-the-kernel/discord-bot-challenge/blob/main/TUTORIEL.md#1installation-de-node-js)
 
-  a. [sur Windows](https://github.com/panic-at-the-kernel/discord-bot-challenge/blob/main/TUTORIEL.md#asur-windows)   
-  b. [sur Linux](https://github.com/panic-at-the-kernel/discord-bot-challenge/blob/main/TUTORIEL.md#bsur-linux)  
-  c. [sur macOS](https://github.com/panic-at-the-kernel/discord-bot-challenge/blob/main/TUTORIEL.md#csur-macos)  
+    a. [sur Windows](https://github.com/panic-at-the-kernel/discord-bot-challenge/blob/main/TUTORIEL.md#asur-windows)   
+    b. [sur Linux](https://github.com/panic-at-the-kernel/discord-bot-challenge/blob/main/TUTORIEL.md#bsur-linux)  
+    c. [sur macOS](https://github.com/panic-at-the-kernel/discord-bot-challenge/blob/main/TUTORIEL.md#csur-macos)  
 
 2. [npm & discord.js](https://github.com/panic-at-the-kernel/discord-bot-challenge/blob/main/TUTORIEL.md#2npm--discordjs)
 
