@@ -13,7 +13,7 @@ Le code du bot discord et les soumissions devront être faites sur le repo [thib
 4. optimiser votre code
 5. commenter de façon claire (un tiers doit pouvoir comprendre)
 6. respecter les conventions du JS
-7. pas de pull request après le **30/11/2020 à 23:53**
+7. pas de pull request après le **30/11/2020 à 23:59**
 
 ## Lots
 Pour les 3 premières places:
