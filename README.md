@@ -2,7 +2,7 @@
 ![JS](https://img.shields.io/badge/-javascript-f7df1e?logo=javascript&logoColor=white) ![Node.JS](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Discord](https://img.shields.io/badge/-Discord-7289DA?logo=discord&logoColor=white)  
 Durant tout le mois de **Novembre**, nous vous proposons le *discord bot challenge*.
 Votre but: développer le plus de fonctionnalités possibles (voir liste ci-dessous) *ou* la fonctionnalité bonus.
-Le concours se déroulera du **01/11/2020 00:00** au **30/11/2020 23:53** et est ouvert à tous les étudiants qui suivent une UE informatique à Université Côte d'Azur durant l'année universitaire **2020/2021**, à l'exception des étudiants membres du jury.
+Le concours se déroulera du **01/11/2020 00:00** au **30/11/2020 23:59** et est ouvert à tous les étudiants qui suivent une UE informatique à Université Côte d'Azur durant l'année universitaire **2020/2021**, à l'exception des étudiants membres du jury.
 
 Le code du bot discord et les soumissions devront être faites sur le repo [thibaultjunin/discord-licence](https://github.com/thibaultjunin/discord-licence).
 
