@@ -2,20 +2,20 @@
 
 ## **Comment quoi et pourquoi**
 
-**Q** : Quel genre de bot je peux développer ?
+1.**Q** : Quel genre de bot je peux développer ?
 
-**R** : Tous genres de bot sont les bienvenues, laissez libre court à votre imagination et créativité, 
-  du moment que ça reste raisonnable bien évidemment on ne veut pas de contenus obscènes, inappropriés ou inadaptés. 
-  Donc, jeux, modérations, etc. Renseignez vous sur ce qui existe, inspirez-vous si vous débutez.
-  Si c'est votre première fois suivez bien sûr le tutoriel pour réaliser le premier bot.
+    1.**R** : Tous genres de bot sont les bienvenues, laissez libre court à votre imagination et créativité, 
+      du moment que ça reste raisonnable bien évidemment on ne veut pas de contenus obscènes, inappropriés ou inadaptés. 
+      Donc, jeux, modérations, etc. Renseignez vous sur ce qui existe, inspirez-vous si vous débutez.
+      Si c'est votre première fois suivez bien sûr le tutoriel pour réaliser le premier bot.
 
 
-**Q** : Quel est l'intérêt de participer ? 
+1.**Q** : Quel est l'intérêt de participer ? 
 
-**R** : Pour vous tout simplement. Cela vous apprendra à gérer un projet et l'amener à son terme, c'est l'occasion de découvrir, 
-  si vous le souhaitez, un ou des nouveaux langages, l'utilisation de Git (pas obligatoire), la communication avec des APIs, 
-  apprendre à gérer des soucis avec son code.
-  Un système de récompense autre que votre expérience personnelle, sera mis en place. Nous vous tiendrons au courant sur celui-ci.
+    1.**R** : Pour vous tout simplement. Cela vous apprendra à gérer un projet et l'amener à son terme, c'est l'occasion de découvrir, 
+      si vous le souhaitez, un ou des nouveaux langages, l'utilisation de Git (pas obligatoire), la communication avec des APIs, 
+      apprendre à gérer des soucis avec son code.
+      Un système de récompense autre que votre expérience personnelle, sera mis en place. Nous vous tiendrons au courant sur celui-ci.
 
 ## **J'ai un souci**
 
@@ -36,7 +36,7 @@
 **R** : Vous avez jusqu'à la fin du mois de mai pour réaliser votre bot.
 
 
-## **Questions d'ordre technique  **
+## **Questions d'ordre technique **
 
 
 **Q** : Comment je fais pour tester mon bot ? 
