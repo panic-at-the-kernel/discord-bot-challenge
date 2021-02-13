@@ -43,7 +43,7 @@
 * **R** : Vous avez jusqu'à la fin du mois de mai pour réaliser votre bot.
 
 
-## **Questions d'ordre technique **
+## **Questions d'ordre technique**
 
 
 * **Q** : Comment je fais pour tester mon bot ? 
