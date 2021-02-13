@@ -1,6 +1,6 @@
-#FAQ
+# **FAQ**
 
-##Comment quoi et pourquoi
+## **Comment quoi et pourquoi**
 
 **Q** : Quel genre de bot je peux développer ?
 
@@ -17,7 +17,7 @@
   apprendre à gérer des soucis avec son code.
   Un système de récompense autre que votre expérience personnelle, sera mis en place. Nous vous tiendrons au courant sur celui-ci.
 
-##J'ai un souci
+## **J'ai un souci**
 
 **Q** : J'ai un souci dans mon code ça ne fonctionne pas que puis-je faire ?
 
@@ -29,14 +29,14 @@
   et une réponse sera donnée dans un temps indéterminé, nous ferons bien sûr tout notre possible pour vous répondre dans de plus brefs délais).
 
 
-##Pour quand
+## **Pour quand**
 
 **Q** : Combien de temps on a pour dev le bot ?
 
 **R** : Vous avez jusqu'à la fin du mois de mai pour réaliser votre bot.
 
 
-##Questions d'ordre technique  
+## **Questions d'ordre technique  **
 
 
 **Q** : Comment je fais pour tester mon bot ? 
