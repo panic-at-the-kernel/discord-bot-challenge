@@ -5,7 +5,7 @@
 
 **Q** : Qu'est-ce que c'est ?
 
-**R** : Alors il s'agit tout simplement d'un petit concours entre étudiant. Le concours est ouvert à vous tous étidants de la licence Informatique et 
+* **R** : Alors il s'agit tout simplement d'un petit concours entre étudiant. Le concours est ouvert à vous tous étidants de la licence Informatique et 
       il sera également ouvert au Master Info et aux étudiants en MIAGE. Des étudiants de Licence ne seront pas jugés de la même manière que des étudiants de Master.
       Le but est de vous faire découvrir (ou vous perfectionner pour les plus avertis) le développement de Bots pour la plateforme Discord.
 
