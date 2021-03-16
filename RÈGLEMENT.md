@@ -26,7 +26,7 @@ Le présent jeu-concours est un jeu gratuit sans obligation d'achat.
 
 ## 5. Modalités de participation
 
-La participation au jeu-concours est ouverte à compter du 01/11/2020 au 30/11/2020.
+La participation au jeu-concours est ouverte à compter du 20/03/2021 au 31/05/2021.
 
 Chaque personne ne peut participer qu'une seule fois.
 
@@ -44,7 +44,7 @@ Le jury intervenant dans le déroulement du jeu-concours est composé des person
 4. [Thibault Junin](https://github.com/thibaultjunin/)
 
 ## 7. Date et modalités de publication des résultats
-Les résultats seront communiqués le 13/12/2020 sur le dépôt github du concours https://github.com/panic-at-the-kernel/discord-bot-challenge.
+Les résultats seront communiqués le 30/06/2021 sur le dépôt github du concours https://github.com/panic-at-the-kernel/discord-bot-challenge.
 
 ## 8. Contributions des participants
 
