@@ -8,8 +8,8 @@ Le présent jeu-concours est organisé par **Kernel Panic (STAN-TAB CORP FRANCE)
 
 Les participants ont la possibilité de gagner les lots suivants :
 
-1. 3 raspberry pi
-2. goodies UCA
+1. Raspberry Pi 4
+2. Goodies UCA
 
 L'Organisateur certifie avoir obtenu l'autorisation du titulaire de la marque de chacun des lots proposés.
 

@@ -24,8 +24,8 @@ Le code du bot discord et les soumissions peuvent se faire sur gihtub via **git*
 
 ## Lots
 
-1. 3 raspberry pi ainsi
-2. Des goodies UCA
+1. Raspberry Pi 4
+2. Goodies UCA
 
 ## Aides
 
