@@ -20,7 +20,7 @@ Pour les 3 premières places:
 1. (à venir) Restez informez sur le discord de la licence !
 
 ## Aides
-Un serveur de test est mis à votre disposition [Kernel Panic](https://discord.gg/8kgMPqd5x3) ![Discord](https://img.shields.io/badge/-Discord-7289DA?logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/-Discord-7289DA?logo=discord&logoColor=white) Un serveur de test est mis à votre disposition [Kernel Panic](https://discord.gg/8kgMPqd5x3) ![Discord](https://img.shields.io/badge/-Discord-7289DA?logo=discord&logoColor=white)
 
 ## Jury
 * [Marie Pelleau](https://github.com/mpelleau)
