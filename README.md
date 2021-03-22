@@ -20,7 +20,7 @@ Pour les 3 premières places:
 1. (à venir) Restez informez sur le discord de la licence !
 
 ## Aides
-Un serveur de test est mis à votre disposition ![Discord](https://img.shields.io/badge/-Discord-7289DA?logo=discord&logoColor=white) https://discord.gg/WXy34zDeE8.
+Un serveur de test est mis à votre disposition https://discord.gg/WXy34zDeE8 ![Discord](https://img.shields.io/badge/-Discord-7289DA?logo=discord&logoColor=white).
 Voir AIDE.md
 
 ## Jury
