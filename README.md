@@ -25,4 +25,4 @@ Pour les 3 premières places:
 ## Jury
 * [Marie Pelleau](https://github.com/mpelleau)
 * [Arnaud Malapert](https://github.com/arnaud-m)
-* [Gestion Discord 👨‍🔧]
+* Gestion Discord 👨‍🔧
