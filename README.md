@@ -4,8 +4,6 @@ Durant le reste du **semestre 6**, nous vous proposons le *discord bot challenge
 Votre but: développer un bot discord dans le langage de votre choix.
 Le concours se déroulera du **22/03/2021 00:00** au **31/05/2021 23:59** (date susceptible de changer de quelques jours) et est ouvert à tous les étudiants qui suivent une UE informatique à Université Côte d'Azur durant l'année universitaire **2020/2021**, à l'exception des étudiants membres du jury.
 
-Le code du bot discord et les soumissions peuvent se faire sur gihtub via **git** ou via l'interface web de github. Des tutos seront mis à votre disposition si vous n'avez jamais utilisé github.
-
 ## Règles
 1. langage de programmation au choix.
 2. fonctionnalitées de votre bot au choix.
@@ -14,6 +12,11 @@ Le code du bot discord et les soumissions peuvent se faire sur gihtub via **git*
 7. commenter de façon claire (un tiers doit pouvoir comprendre)
 8. respecter les conventions de programmation en général
 9. pas de soumissions après le **31/05/2021 à 23:59**
+
+## Soumissions
+Les soumissions devront être accompagné d'un ReadME qui explique comment utiliser votre bot (commandes, fonctionnalitées etc...).
+
+Le code du bot discord et les soumissions peuvent se faire sur gihtub via **git** ou via l'interface web de github. Des tutos seront mis à votre disposition si vous n'avez jamais utilisé github.
 
 ## Lots
 1. 3 raspberry pi ainsi
