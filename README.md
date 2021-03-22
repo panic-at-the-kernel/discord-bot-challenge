@@ -25,5 +25,4 @@ Un serveur de test est mis à votre disposition https://discord.gg/WXy34zDeE8 ![
 ## Jury
 * [Marie Pelleau](https://github.com/mpelleau)
 * [Arnaud Malapert](https://github.com/arnaud-m)
-* [Antoine Vidal-Mazuy](https://github.com/Brotherta)
-* [Thibault Junin](https://github.com/thibaultjunin/)
+* [Gestion Discord 👨‍🔧]
