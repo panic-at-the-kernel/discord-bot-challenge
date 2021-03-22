@@ -6,7 +6,7 @@ Le présent jeu-concours est organisé par **Kernel Panic (STAN-TAB CORP FRANCE)
 
 ## 2. Lots
 
-Les participants ont la possibilité de gagner les lots suivants:
+Les participants ont la possibilité de gagner les lots suivants :
 
 1. 3 raspberry pi
 2. goodies UCA
@@ -43,7 +43,7 @@ La participation se déroule selon les modalités suivantes:
 
 Les gagnants seront déterminés de la manière suivante:
 
-* A la fin du concours, le jury (listé ci-après) passera en revue les bots, et décidera si ses fonctionnalités sont correctement implémentées. Le jury récompensera la qualité du code ainsi que son originalité.
+* À la fin du concours, le jury (listé ci-après) passera en revue les bots, et décidera si ses fonctionnalités sont correctement implémentées. Le jury récompensera la qualité du code ainsi que son originalité.
 
 Le jury intervenant dans le déroulement du jeu-concours est composé des personnes suivantes:
 
