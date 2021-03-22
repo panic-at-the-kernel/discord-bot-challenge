@@ -54,7 +54,7 @@ Pour cela, il nous faut deux pièces principales npm, qui est le package manager
 
 Si vous avez installé node avec un exécutable npm est bundled avec donc vous êtes quasi bon :
 
-* Vérifions que npm est bien installé avec ```npm v```
+* Vérifions que npm est bien installé avec ```npm version```
 
 * Assurons nous maintenant d'avoir la dernière version de npm, en effet ils ont beau être packager ensemble, leur rythme de dévelopement est asynchrone. ```npm install npm@latest -g``` permettra à npm de se mettre à jour.
 
@@ -62,7 +62,7 @@ Si vous avez installé node.js avec un package manager, il vous suffit normaleme
 
 * ```sudo apt install npm``` pour installer.
 
-* ```npm v``` pour vérifier que c'est bon.
+* ```npm version``` pour vérifier que c'est bon.
 
 * ```npm install npm@latest -g``` pour s'assuer d'avoir la dernière version.
 
