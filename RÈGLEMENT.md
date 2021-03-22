@@ -40,6 +40,10 @@ Le jury intervenant dans le déroulement du jeu-concours est composé des person
 2. [Arnaud Malapert](https://github.com/arnaud-m)
 3. [Antoine Vidal-Mazuy](https://github.com/Brotherta)
 4. [Thibault Junin](https://github.com/thibaultjunin/)
+5. [Dylann Batisse](https://github.com/takitsu21)
+6. [Antoine Cousson](https://github.com/MonsieurCo)
+7. [Yann Brault](https://github.com/Yann-Brault)
+8. [Luca Orengo](https://github.com/Mr0B)
 
 ## 7. Date et modalités de publication des résultats
 Les résultats seront communiqués le 30/06/2021 sur le discord de la licence.
