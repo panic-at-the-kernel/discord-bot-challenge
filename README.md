@@ -16,8 +16,8 @@ Le code du bot discord et les soumissions peuvent se faire sur gihtub via **git*
 9. pas de soumissions après le **31/05/2021 à 23:59**
 
 ## Lots
-Pour les 3 premières places:
-1. (à venir) Restez informez sur le discord de la licence !
+1. 3 raspberry pi ainsi
+2. Des goodies UCA
 
 ## Aides
 ![Discord](https://img.shields.io/badge/-Discord-7289DA?logo=discord&logoColor=white) Un serveur de test est mis à votre disposition [Kernel Panic](https://discord.gg/8kgMPqd5x3) 
