@@ -21,7 +21,6 @@ Pour les 3 premières places:
 
 ## Aides
 Un serveur de test est mis à votre disposition https://discord.gg/WXy34zDeE8 ![Discord](https://img.shields.io/badge/-Discord-7289DA?logo=discord&logoColor=white).
-Voir AIDE.md
 
 ## Jury
 * [Marie Pelleau](https://github.com/mpelleau)
