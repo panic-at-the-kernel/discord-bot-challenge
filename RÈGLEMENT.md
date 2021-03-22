@@ -29,7 +29,7 @@ La participation au jeu-concours est ouverte à compter du 22/05/2021 au 31/05/2
 Chaque personne ne peut participer qu'une seule fois.
 
 La participation se déroule selon les modalités suivantes:
-* Durant la période du concours, le participant devra developper un bot discord de sa propre condition dans le temps imparti. Tout bot qui n'est pas dévelopé par vos soins dans la periode impartie du concours, entrainera une disqualification immédiate.
+* Durant la période du concours, le participant devra developper un bot discord dans le temps imparti. Tout bot qui n'est pas développé par vos soins, dans la periode impartie du concours, entrainera une disqualification immédiate.
 
 ## 6. Désignation des gagnants
 Les gagnants seront déterminés de la manière suivante:
