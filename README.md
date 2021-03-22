@@ -14,7 +14,7 @@ Le concours se déroulera du **22/03/2021 00:00** au **31/05/2021 23:59** (date 
 9. pas de soumissions après le **31/05/2021 à 23:59**
 
 ## Soumissions
-Les soumissions devront être accompagné d'un ReadME qui explique comment utiliser votre bot (commandes, fonctionnalitées etc...).
+Les soumissions devront être accompagnées d'un ReadME qui explique comment utiliser votre bot (commandes, fonctionnalitées etc...).
 
 Le code du bot discord et les soumissions peuvent se faire sur gihtub via **git** ou via l'interface web de github. Des tutos seront mis à votre disposition si vous n'avez jamais utilisé github.
 
