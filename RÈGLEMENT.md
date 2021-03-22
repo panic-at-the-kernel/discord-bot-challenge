@@ -5,9 +5,7 @@ Le présent jeu-concours est organisé par **Kernel Panic (STAN-TAB CORP FRANCE)
 ## 2. Lots
 Les participants ont la possibilité de gagner les lots suivants:
 
-1. 1 x Raspberry Pi 4 4GB;
-2. 1 x T-Shirt "Kernel Panic Discord Bot Challenge", d'une valeur commerciale unitaire de 24,00 €;
-3. 1 x Sac de goodies.
+1. (à venir)
 
 L'Organisateur certifie avoir obtenu l'autorisation du titulaire de la marque de chacun des lots proposés.
 
@@ -26,16 +24,16 @@ Le présent jeu-concours est un jeu gratuit sans obligation d'achat.
 
 ## 5. Modalités de participation
 
-La participation au jeu-concours est ouverte à compter du 20/03/2021 au 31/05/2021.
+La participation au jeu-concours est ouverte à compter du 22/05/2021 au 31/05/2021.
 
 Chaque personne ne peut participer qu'une seule fois.
 
 La participation se déroule selon les modalités suivantes:
-* Durant la période du concours, le participant devra developper une liste de fonctionnalités énumérées sur la page de présentation du concours. Pour ce faire, le participant devra "fork" le dépôt github du concours, y apporter ses modifications puis créer une "pull request" avec ses modifications sur le dépôt GitHub du concours.
+* Durant la période du concours, le participant devra developper un bot discord de sa propre condition dans le temps imparti. Tout bot qui n'est pas dévelopé par vos soins dans la periode impartie du concours, entrainera une disqualification immédiate.
 
 ## 6. Désignation des gagnants
 Les gagnants seront déterminés de la manière suivante:
-* A la fin du concours, le jury (listé ci-après) passera en revue les pull requests, décidera si les fonctionnalités sont correctement implémentées dans le respect des conventions du langage utilisé.
+* A la fin du concours, le jury (listé ci-après) passera en revue les bots, et décidera si ses fonctionnalités sont correctement implémentées. Le jury récompensera la qualité du code ainsi que son originalité.
 
 Le jury intervenant dans le déroulement du jeu-concours est composé des personnes suivantes:
 1. [Marie Pelleau](https://github.com/mpelleau)
@@ -44,7 +42,7 @@ Le jury intervenant dans le déroulement du jeu-concours est composé des person
 4. [Thibault Junin](https://github.com/thibaultjunin/)
 
 ## 7. Date et modalités de publication des résultats
-Les résultats seront communiqués le 30/06/2021 sur le dépôt github du concours https://github.com/panic-at-the-kernel/discord-bot-challenge.
+Les résultats seront communiqués le 30/06/2021 sur le discord de la licence.
 
 ## 8. Contributions des participants
 
