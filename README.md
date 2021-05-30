@@ -2,7 +2,7 @@
 
 ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=ffffff) ![Node.JS](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white) ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=3776AB) ![C#](https://img.shields.io/badge/-C%23-239120?logo=c+sharp&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=ffffff) ![Racket](https://img.shields.io/badge/-Racket-blue?style=flat&logo=racket&logoColor=ffffff) ![OCaml](https://img.shields.io/badge/-OCaml-f08a2b?style=flat&logo=ocaml&logoColor=ffffff) ![Discord](https://img.shields.io/badge/-Discord-7289DA?logo=discord&logoColor=white)
 
-Durant le reste du **semestre 6**, nous vous proposons le *discord bot challenge*.
+Durant le reste du **semestre 2**, nous vous proposons le *discord bot challenge*.
 Votre but: développer un bot discord dans le langage de votre choix.
 Le concours se déroulera du **22/03/2021 00:00** au **31/05/2021 23:59** (date susceptible de changer de quelques jours) et est ouvert à tous les étudiants qui suivent une UE informatique à Université Côte d'Azur durant l'année universitaire **2020/2021**, à l'exception des étudiants membres du jury.
 
